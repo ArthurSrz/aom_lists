@@ -1,0 +1,310 @@
+nom,dataset_count,details
+CA de Nevers,1,{'gtfs': 1}
+Nantes Métropole,1,{'gtfs': 2}
+CA de Nîmes Métropole,1,"{'gtfs': 1, 'gtfs_rt': 3}"
+Métropole du Grand Nancy,2,"{'gtfs': 2, 'gtfs_rt': 1, 'netex': 1}"
+CA Mulhouse Alsace Agglomération,2,"{'gtfs': 2, 'gtfs_rt': 2, 'netex': 1}"
+CA Montluçon Communauté,1,{'gtfs': 2}
+Montpellier Méditerranée Métropole,4,"{'gbfs': 1, 'gtfs': 1}"
+Métropole Nice Côte d'Azur,2,{'gtfs': 1}
+CA Pays de Montbéliard Agglomération,1,{'gtfs': 1}
+SM de transports urbains de la Sambre,0,{}
+Metz Métropole,3,"{'gtfs': 1, 'gtfs_rt': 3}"
+CU Le Mans Métropole,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+SM intercommunal des transports de l'agglomération de Longwy,1,"{'gtfs': 1, 'netex': 1}"
+CU Limoges Métropole,1,"{'gtfs': 2, 'netex': 3}"
+Métropole Européenne de Lille,3,"{'gbfs': 1, 'gtfs': 1, 'gtfs_rt': 1}"
+Métropole d'Aix-Marseille-Provence,5,"{'gbfs': 1, 'gtfs': 15}"
+CA Lorient Agglomération,1,"{'gtfs': 3, 'gtfs_rt': 2}"
+Le Havre Seine Métropole,1,"{'gtfs': 2, 'siri': 1}"
+Laval Agglomération,1,{'gtfs': 2}
+CA du Pays de Laon,1,{'gtfs': 1}
+Syndicat Mixte des Mobilités de l'Aire Grenobloise,8,"{'gbfs': 2, 'gtfs': 6}"
+CA de Forbach Porte de France,1,"{'gtfs': 1, 'netex': 1}"
+SM des transports pour le Rhône et l'agglomération lyonnaise (SYTRAL),6,"{'gbfs': 1, 'gtfs': 9, 'netex': 3}"
+SM des transports du Douaisis (SMTD),1,{'gtfs': 1}
+CU de Dunkerque,1,"{'gtfs': 1, 'siri': 1}"
+Dijon Métropole,1,"{'gtfs': 1, 'gtfs_rt': 2}"
+CU Le Creusot Montceau-les-Mines,1,{}
+CA d'Epinal,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Creil Sud Oise,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CA Colmar Agglomération,1,"{'gtfs': 1, 'netex': 1}"
+SM des transports en commun de l'agglomération clermontoise (SMTC),2,"{'gbfs': 1, 'gtfs': 2}"
+CA Châteauroux Métropole,1,{'gtfs': 4}
+CA du Cotentin,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA Chartres Métropole,1,{'gtfs': 2}
+CA Agglomération du Choletais,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA du Grand Chambéry,2,"{'gtfs': 3, 'gtfs_rt': 2}"
+Ardenne Métropole,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Le Grand Chalon,1,{'gtfs': 1}
+CA de Châlons-en-Champagne,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Cannes Pays de Lérins,1,"{'gtfs': 1, 'gtfs_rt': 3}"
+CA Evreux Portes de Normandie,1,{'gtfs': 2}
+CA du Bassin de Brive,1,"{'gtfs': 2, 'netex': 3}"
+CU Caen la Mer,1,"{'gtfs': 2, 'siri': 1}"
+Brest Métropole,2,"{'gbfs': 1, 'gtfs': 2, 'gtfs_rt': 3, 'siri': 1}"
+CA de Cambrai,1,{'gtfs': 1}
+CA du Boulonnais,1,"{'gtfs': 1, 'gtfs_rt': 2}"
+Agglobus,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA du Bassin de Bourg-en-Bresse,1,{'gtfs': 2}
+SI des transports urbains de l'agglomération du Calaisis (SITAC),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Bordeaux Métropole,2,"{'gtfs': 3, 'gtfs_rt': 4, 'netex': 2}"
+SM des transports en commun du Territoire-de-Belfort,1,{'gtfs': 1}
+CU Grand Besançon Métropole,1,"{'gbfs': 1, 'gtfs': 1}"
+CA du Beauvaisis,2,"{'gtfs': 2, 'gtfs_rt': 8, 'netex': 2, 'siri': 4}"
+CA de Bastia,1,{'gtfs': 1}
+Syndicat des mobilités Pays Basque - Adour,4,"{'gtfs': 5, 'gtfs_rt': 2, 'netex': 2}"
+CA de Blois ''Agglopolys'',1,{'gtfs': 2}
+CA de Béziers-Méditerranée,1,{'gtfs': 1}
+CU d'Arras,1,{'gtfs': 1}
+CA du Grand Avignon (COGA),2,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA d'Arles-Crau-Camargue-Montagnette,1,"{'gtfs': 16, 'gtfs_rt': 1}"
+CA du Grand Angoulême,1,"{'gtfs': 2, 'gtfs_rt': 1, 'netex': 2}"
+CU Angers Loire Métropole,1,"{'gtfs': 2, 'gtfs_rt': 2, 'siri': 1}"
+CA Annemasse-Les Voirons-Agglomération,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+SM Artois Mobilités,1,{'gtfs': 1}
+SI des transports urbains soissonnais (SITUS),2,{'gtfs': 2}
+CA du Grand Cahors,1,{'gtfs': 1}
+CA du Grand Annecy,1,{'gtfs': 2}
+CA Rodez Agglomération,1,{'gtfs': 1}
+CA Tulle Agglo,1,"{'gtfs': 2, 'netex': 3}"
+CA Mont de Marsan Agglomération,1,"{'gtfs': 2, 'netex': 3}"
+CA Grand Montauban,1,{'gtfs': 1}
+CA du Grand Dax,1,"{'gtfs': 2, 'netex': 2}"
+CA Grand Châtellerault,1,"{'gtfs': 2, 'gtfs_rt': 1, 'netex': 2}"
+CA du Grand Verdun,2,"{'gtfs': 2, 'gtfs_rt': 2, 'netex': 1}"
+CA de Castres Mazamet,1,{'gtfs': 1}
+CA de la Riviera Française,1,"{'gtfs': 1, 'gtfs_rt': 2}"
+CA Grand Auch Coeur de Gascogne,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA Gap-Tallard-Durance,1,{'gtfs': 1}
+CA Moulins Communauté,0,{'gtfs': 1}
+Dracénie Provence Verdon Agglomération,1,{'gtfs': 2}
+CA Carcassonne Agglo,1,{'gtfs': 1}
+CA Montélimar Agglomération,1,{'gtfs': 2}
+SM transports publics du bassin d'Alès,3,"{'gtfs': 3, 'gtfs_rt': 1}"
+CA de Saintes,2,"{'gtfs': 3, 'gtfs_rt': 1, 'netex': 3}"
+"CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay",1,{'gtfs': 2}
+CA Vienne Condrieu,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA Le Grand Narbonne,1,{'gtfs': 1}
+CA du Libournais,1,"{'gtfs': 2, 'netex': 3}"
+CA Vichy Communauté,1,{'gtfs': 2}
+SI de mobilité et d'organisation urbaine du Valenciennois,1,{'gtfs': 1}
+Valence-Romans déplacements,1,{'gtfs': 1}
+CA Troyes Champagne Métropole,1,"{'gtfs': 2, 'gtfs_rt': 3}"
+SM des transports urbains Thionville Fensch,1,"{'gtfs': 1, 'netex': 1}"
+CA Tarbes-Lourdes-Pyrénées,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Métropole Toulon-Provence-Méditerranée,1,"{'gtfs': 1, 'siri': 1}"
+SM des transports en commun de l'agglomération toulousaine,1,{}
+CA Sète Agglopôle Méditerranée,1,"{'gtfs': 1, 'gtfs_rt': 3}"
+Syndicat des Mobilités de Touraine,2,"{'gtfs': 2, 'gtfs_rt': 3}"
+Eurométropole de Strasbourg,6,"{'gbfs': 3, 'gtfs': 1, 'siri_lite': 5}"
+CA du Saint-Quentinois,1,{'gtfs': 1}
+CA Saumur Val de Loire,1,"{'gtfs': 2, 'netex': 2}"
+CA de la Région Nazairienne et de l'Estuaire (CARENE),5,"{'gbfs': 1, 'gtfs': 4, 'gtfs_rt': 1}"
+Saint-Etienne Métropole,2,"{'gbfs': 1, 'gtfs': 2, 'netex': 2}"
+CA du Pays de Saint Malo Agglomération,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA de La Rochelle,2,"{'gtfs': 2, 'netex': 3}"
+CA La Roche sur Yon - Agglomération,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+Métropole Rouen Normandie,8,"{'gbfs': 1, 'gtfs': 4, 'gtfs_rt': 5}"
+CA Roannais Agglomération,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA Quimper Bretagne Occidentale,2,"{'gtfs': 3, 'gtfs_rt': 1}"
+CU du Grand Reims,2,"{'gtfs': 1, 'netex': 1}"
+Rennes Métropole,1,{'gtfs': 2}
+CA Saint-Brieuc Armor Agglomération,2,"{'gbfs': 3, 'gtfs': 2}"
+CU Perpignan Méditerranée Métropole,2,"{'gtfs': 2, 'gtfs_rt': 1}"
+CU du Grand Poitiers,1,"{'gtfs': 2, 'netex': 2}"
+Orléans Métropole,2,"{'gtfs': 4, 'gtfs_rt': 1}"
+CA du Niortais,1,"{'gtfs': 2, 'gtfs_rt': 1, 'netex': 2}"
+CA Les Sables d'Olonne Agglomération,1,"{'gtfs': 2, 'netex': 2}"
+"SM ""Pau Béarn Pyrénées mobilités""",2,{'gtfs': 2}
+Syndicat mixte des transports urbains du bassin thiernois,0,{'gtfs': 1}
+CA Saint-Avold Synergie,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA Riom Limagne et Volcans,0,{'gtfs': 1}
+CA Saint-Lô Agglo,0,{'gtfs': 1}
+CA Le Grand Périgueux,1,"{'gtfs': 2, 'netex': 3}"
+CA Fécamp Caux Littoral Agglomération,0,{'gtfs': 1}
+CA Agglo du Pays de Dreux,1,{'gtfs': 2}
+CA Lannion-Trégor Communauté,0,{'gtfs': 1}
+CA de la Région Dieppoise,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA Lisieux Normandie,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA Vitré Communauté,1,{'gtfs': 1}
+CA Montargoise et Rives du Loing (AME),1,{'gtfs': 2}
+CA Morlaix Communauté,0,{'gtfs': 1}
+CA de Bar-le-Duc - Sud Meuse,1,"{'gtfs': 1, 'netex': 1}"
+CC Terres Touloises,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Golfe du Morbihan - Vannes Agglomération,1,{'gtfs': 2}
+CA Saint-Louis Agglomération,4,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Sarreguemines Confluences,1,"{'gtfs': 1, 'netex': 1}"
+CA Fougères Agglomération,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA de Saint-Dizier Der et Blaise,1,"{'gtfs': 1, 'netex': 1}"
+CA Concarneau Cornouaille Agglomération,1,"{'gtfs': 2, 'netex': 1}"
+"CA Epernay, Coteaux et Plaine de Champagne",1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA ECLA  (Espace Communautaire Lons Agglomération),1,{'gtfs': 1}
+CA de Chaumont,1,"{'gtfs': 1, 'netex': 1}"
+CA Thonon Agglomération,1,{'gtfs': 2}
+CA de Saint-Dié-des-Vosges,1,"{'gtfs': 1, 'gtfs_rt': 2, 'netex': 1}"
+CA du Grand Sénonais,1,{'gtfs': 1}
+CA Mâconnais Beaujolais Agglomération,1,{'gtfs': 2}
+CA Porte de l'Isère (CAPI),1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA du Grand Dole,1,"{'gtfs': 1, 'gtfs_rt': 2}"
+CC Cluses-Arve et Montagnes,1,{'gtfs': 1}
+Haut - Bugey Agglomération,0,{'gtfs': 1}
+CA de l'Auxerrois,1,"{'gtfs': 1, 'gtfs_rt': 3}"
+CA du Bassin d'Aurillac,0,{'gtfs': 1}
+CA Annonay Rhône Agglo,3,{'gtfs': 4}
+CC du Grand Autunois Morvan,1,{'gtfs': 1}
+CA du Puy-en-Velay,0,{'gtfs': 1}
+CC de Sélestat,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CA Grand Lac,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA Chauny Tergnier La Fère,1,{'gtfs': 1}
+CA Provence-Alpes-Agglomération,1,{'gtfs': 4}
+CC du Bassin de Pompey,1,"{'gtfs': 1, 'netex': 1}"
+CC du Bassin de Pont-à-Mousson,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CC de Millau Grands Causses,0,{}
+CA Seine-Eure,1,{'gtfs': 2}
+CA du Pays de Grasse,1,{'gtfs': 2}
+CA de la Région de Compiègne et de la Basse Automne,3,"{'gtfs': 3, 'gtfs_rt': 8, 'netex': 3, 'siri': 4}"
+CA Bergeracoise,1,"{'gtfs': 2, 'netex': 3}"
+CA Bassin d'Arcachon Sud (COBAS),1,{'gtfs': 1}
+CA Caux Seine Agglo,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+Estérel Côte d'Azur Agglomération,1,{'gtfs': 1}
+CA de Vesoul,1,"{'gtfs': 1, 'gtfs_rt': 2}"
+CA de la Baie de Somme,0,{}
+Île-de-France Mobilités,1,"{'gtfs': 2, 'netex': 1, 'siri_lite': 3}"
+CC des Pays d'Oise et d'Halatte,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CA Flers Agglo,2,{'gtfs': 3}
+CA Arlysère,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CC de l'Aire Cantilienne,3,"{'gtfs': 3, 'gtfs_rt': 8, 'netex': 3, 'siri': 4}"
+CA Durance-Lubéron-Verdon Agglomération,1,{'gtfs': 1}
+CA Dinan Agglomération,1,{'gtfs': 1}
+CA de Haguenau,2,"{'gtfs': 2, 'gtfs_rt': 1, 'netex': 1}"
+CA Val de Garonne Agglomération,1,"{'gtfs': 2, 'netex': 3}"
+CA des Deux Baies en Montreuillois,0,{}
+CC des Sablons,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CC Moselle et Madon,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA du Grand Cognac,1,"{'gtfs': 2, 'netex': 3}"
+CA Territoires Vendômois,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA Seine Normandie Agglomération,2,"{'gtfs': 3, 'gtfs_rt': 2}"
+CC Pontivy Communauté,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+Loire Forez Agglomération (LFA),2,{'gtfs': 2}
+CA du Grand Villeneuvois,1,{'gtfs': 1}
+CA de la Presqu'île de Guérande Atlantique (CAP ATLANTIQUE),1,{'gtfs': 1}
+CA de Sophia Antipolis,1,{'gtfs': 1}
+CA du Pays de Saint-Omer,1,{'gtfs': 1}
+CA Lamballe Terre et Mer,1,{'gtfs': 2}
+CA de la Région de Château-Thierry,1,{'gtfs': 1}
+CC de la Vallée de Chamonix-Mont-Blanc,1,{'gtfs': 2}
+CA Rochefort Océan,1,"{'gtfs': 2, 'netex': 3}"
+PETR du Pays du Lunévillois,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA Royan Atlantique,2,"{'gtfs': 3, 'netex': 3}"
+CA Ventoux-Comtat-Venaissin (COVE),1,{'gtfs': 1}
+CA Hérault-Méditerranée,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA Quimperlé Communauté,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CA Guingamp-Paimpol Agglomération de l'Armor à l'Argoat,1,"{'gtfs': 2, 'gtfs_rt': 2}"
+CC Decazeville Communauté,1,{'gtfs': 3}
+CC Sarrebourg Moselle Sud,1,"{'gtfs': 1, 'netex': 1}"
+SI de transport urbain Tout'en Bus,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC de Miribel et du Plateau,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA du Pays de Gex,1,{'gtfs': 1}
+CA de la Provence Verte,1,{'gtfs': 1}
+CA Pays Foix-Varilhes,1,{'gtfs': 1}
+CA Arche Agglo,0,{'gtfs': 1}
+CA Pornic Agglo Pays de Retz,0,{}
+CC des Portes de Romilly sur Seine,0,{}
+CA Clisson Sèvre et Maine Agglo,0,{'gtfs': 1}
+CC Poher Communauté,0,{}
+CA Luberon Monts de Vaucluse,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC Rumilly Terre de Savoie,1,{'gtfs': 2}
+CC de la Grande Vallée de la Marne,0,{}
+CA Sud Sainte Baume,2,{'gtfs': 2}
+CA Mauges Communauté,0,{}
+CC Maremne Adour Côte Sud,1,"{'gtfs': 2, 'netex': 2}"
+CA du Gard Rhodanien,0,{}
+CA Privas Centre Ardèche,1,{'gtfs': 5}
+CC du Clermontois,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+SM des transports du bassin de Briey,1,"{'gtfs': 1, 'netex': 1}"
+SM4CC,2,"{'gtfs': 1, 'gtfs_rt': 1}"
+CA du Bocage Bressuirais,1,"{'gtfs': 2, 'netex': 3}"
+CA Terre de Provence,0,{}
+CA du Pays de l'Or,1,{'gtfs': 5}
+CA Gaillac-Graulhet,4,{'gtfs': 4}
+CA du Grand Guéret,1,"{'gtfs': 2, 'netex': 2}"
+CC du Genevois,0,{'gtfs': 1}
+CC de la Côtière à Montluel,1,{'gtfs': 3}
+CC Dombes Saône Vallée,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CC Auray Quiberon Terre Atlantique,0,{'gtfs': 1}
+CU d'Alençon,0,{'gtfs': 1}
+CA Amiens Métropole,1,"{'gtfs': 2, 'gtfs_rt': 3}"
+CA de l'Albigeois (C2A),1,{'gtfs': 3}
+CC Retz en Valois,0,{}
+CA Agglomération d'Agen,4,"{'gtfs': 5, 'gtfs_rt': 1}"
+CA du Pays Ajaccien,1,{'gtfs': 1}
+CA du Centre Littoral,2,{'gtfs': 2}
+Martinique Transport,3,{'gtfs': 5}
+CA de Dembeni / Mamoudzou,0,{}
+CC de Marie-Galante,0,{}
+CA du Nord Basse-Terre,0,{}
+SM des transports urbains du Grand Noumea,1,{'gtfs': 2}
+SM des transports du Petit cul de sac marin,1,{'gtfs': 1}
+CA du Nord Grande Terre,0,{}
+CA Intercommunale de la Réunion Est (CIREST),1,{'gtfs': 1}
+CA Intercommunale du Nord de la Réunion (CINOR),0,{}
+CA Territoire de la Côte Ouest (TCO),1,{'gtfs': 1}
+CA CIVIS (Communauté Intercommunale des Villes Solidaires),1,"{'gtfs': 1, 'gtfs_rt': 3}"
+CA Grand Sud Caraïbe,0,{}
+CA du Sud,2,"{'gtfs': 2, 'gtfs_rt': 1}"
+CA du Bassin d'Arcachon Nord,0,{}
+CA Redon Agglomération,1,{'gtfs': 1}
+CA Mont-Saint-Michel-Normandie,0,{'gtfs': 1}
+CA Agglo Pays d'Issoire,0,{}
+CC Pays d'Evian Vallée d'Abondance,1,{'gtfs': 2}
+CC des Pays du Sel et du Vermois,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC de la Plaine d'Estrées,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CC Thelloise,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+SM du grand site de Rocamadour,0,{}
+CA du Caudrésis et du Catésis,0,{}
+CC de l'Ouest Vosgien,1,{'gtfs': 2}
+CC du Pays Noyonnais,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CC du Pays de Valois,1,"{'gtfs': 1, 'gtfs_rt': 4, 'netex': 1, 'siri': 2}"
+CC Serre-Ponçon,1,{'gtfs': 1}
+PETR du Pays de Langres,1,"{'gtfs': 1, 'netex': 1}"
+CC du Pays de Sainte-Odile,1,"{'gtfs': 1, 'gtfs_rt': 1, 'netex': 1}"
+CC du Pays Sabolien,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+"CC de Granville, Terre et Mer",1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC Sarlat-Périgord Noir,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC Jalle-Eau-Bourde,1,"{'gtfs': 1, 'netex': 1}"
+CA du Pays de Landerneau-Daoulas,2,"{'gbfs': 1, 'gtfs': 2, 'netex': 1}"
+CC du Sud Corse,3,"{'gtfs': 4, 'gtfs_rt': 2}"
+Pays d'Orange en Provence,1,{'gtfs': 1}
+CC Haut Val de Sèvre,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC du Sud Estuaire,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC de l'Ile de Noirmoutier,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC Mayenne Communauté,1,"{'gtfs': 2, 'gtfs_rt': 1}"
+CC du Haut Béarn,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC Intercom Bernay Terres de Normandie,2,"{'gtfs': 3, 'gtfs_rt': 2}"
+CC Douarnenez Communauté,3,"{'gtfs': 1, 'netex': 1}"
+CC de Montesquieu,1,"{'gtfs': 1, 'netex': 1}"
+CC de l'Argonne Champenoise,1,"{'gtfs': 1, 'netex': 1}"
+CC de l'Ile-Rousse - Balagne,1,{'gtfs': 1}
+CC du Pays de Honfleur-Beuzeville,1,"{'gtfs': 1, 'gtfs_rt': 1}"
+CC du Briançonnais,1,{'gtfs': 1}
+Région Auvergne-Rhône-Alpes (CC des Vallées d'Aigueblanche),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Occitanie (CC Coeur de Lozère),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Centre-Val de Loire (CC du Pays d'Issoudun),1,{'gtfs': 2}
+L'Île-d'Yeu,1,{'gtfs': 2}
+Région Auvergne-Rhône-Alpes (CC Les Versants d'Aime),1,{'gtfs': 1}
+Région Auvergne-Rhône-Alpes (CC de la Plaine de l'Ain),1,{'gtfs': 1}
+CA du Pays Voironnais,0,{}
+CC Intercom de la Vire au Noireau,0,{}
+CA du Grand Nord de Mayotte,0,{}
+Région Auvergne-Rhône-Alpes (CC des Montagnes du Giffre),1,{'gtfs': 1}
+Région Occitanie (CC de la Haute-Bigorre),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Auvergne-Rhône-Alpes (CC de Haute-Tarentaise),2,"{'gtfs': 2, 'gtfs_rt': 2}"
+Région Centre-Val de Loire (CC du Perche),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Occitanie (CC Grand-Figeac),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Centre-Val de Loire (CC du Val d Amboise),1,{'gtfs': 1}
+Région Centre-Val de Loire (CC Vierzon-Sologne-Berry),1,{'gtfs': 1}
+Région Auvergne-Rhône-Alpes (CC Coeur de Tarentaise),1,"{'gtfs': 1, 'gtfs_rt': 1}"
+Région Nouvelle Aquitaine (CC de l'Ile de Ré),2,"{'gtfs': 2, 'gtfs_rt': 2}"
+CC Coeur de Maurienne Arvan,0,{}
+Région Auvergne-Rhône-Alpes (CC de l'Oisans),1,"{'gtfs': 1, 'gtfs_rt': 1}"
